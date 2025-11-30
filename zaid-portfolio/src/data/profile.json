@@ -1,0 +1,24 @@
+{
+  "bio": "Zaid Shaikh is a Salesforce Developer evolving into a Product Manager, combining Apex craftsmanship with product strategy.",
+  "careerGoals": "Build AI-first Salesforce products that bridge technical depth with business impact.",
+  "projects": [
+    {
+      "name": "eHS Portal Automation",
+      "summary": "Scaled member onboarding with Apex + OmniStudio orchestration, cutting provisioning time by 38%."
+    },
+    {
+      "name": "Wellnify.ai Recommendation Engine",
+      "summary": "Flask microservices plus Einstein insights to curate wellness bundles with 22% higher upsell."
+    },
+    {
+      "name": "Bucket List App",
+      "summary": "Einstein AI prioritization and Salesforce automation to gamify team goals."
+    }
+  ],
+  "certifications": [
+    "Platform Developer I",
+    "OmniStudio Consultant",
+    "AI Associate",
+    "AI Specialist"
+  ]
+}
